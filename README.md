@@ -38,5 +38,3 @@ O projeto está organizado em módulos para garantir a escalabilidade:
 ## Diagrama UML
 <img width="940" height="616" alt="image" src="https://github.com/user-attachments/assets/5a270110-b889-4c7c-9415-9f5c50009244" />
 
-<img width="891" height="647" alt="image" src="https://github.com/user-attachments/assets/b7fe14fd-afc1-4962-8344-1967b7715b53" />
-
