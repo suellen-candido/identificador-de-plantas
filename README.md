@@ -35,3 +35,9 @@ O projeto está organizado em módulos para garantir a escalabilidade:
 
 - main.py: Arquivo principal que executa o sistema de perguntas e a interface com o usuário.
 
+## Diagrama UML
+<img width="891" height="647" alt="image" src="https://github.com/user-attachments/assets/b7fe14fd-afc1-4962-8344-1967b7715b53" />
+
+
+
+## Doa
