@@ -12,6 +12,8 @@ class Planta:
     def exibir_classificacao(self):
         raise NotImplementedError("Subclasses devem implementar este metodo!")
 
+class PlantaAvascular(Planta):
+    pass
+
 class PlantaVascular(Planta):
-    def __init__(self, nome, curiosidade):
-        super().__init__(nome, curiosidade)
+    pass
